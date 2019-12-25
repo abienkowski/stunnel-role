@@ -1,10 +1,10 @@
 ---
-stunnel_use_certificate: true
-stunnel_use_psk: false
+stunnel_use_certificate: false
+stunnel_use_psk: true
 stunnel_certificate_generation: False
 stunnel_certificate_duration: 365
 stunnel_certificate_domain: www.domain.com
-stunnel_certificate_country: FR
+stunnel_certificate_country: CA
 stunnel_certificate_organization: organization
 stunnel_certificate_state_name: state
 stunnel_certificate_locality: locality
